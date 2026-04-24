@@ -1,6 +1,6 @@
 # HumanForYou — Employee Turnover Analysis
 
-> A machine learning project to identify and predict employee attrition at HumanForYou, a pharmaceutical company based in India.
+> A machine learning project to identify and predict employee attrition at HumanForYou.
 
 ---
 
