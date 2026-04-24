@@ -51,7 +51,8 @@ HumanForYou/
 │   ├── general_data.csv           # Core HR and demographic data
 │   ├── manager_survey_data.csv    # Manager performance assessments
 │   ├── employee_survey_data.csv   # Employee satisfaction survey responses
-│   └── in_out_time.zip            # Daily arrival and departure times (2015)
+│   ├── in_time.zip                # Daily arrival and departure times (2015)
+│   └── out_time.zip               # Daily arrival and departure times (2015)
 │
 ├── notebooks/                     # Jupyter notebooks
 │   └── employee_turnover_analysis.ipynb
