@@ -114,7 +114,7 @@ Self-reported satisfaction scores on a 1–4 scale:
 
 ---
 
-### `in_out_time.zip` — Working Hours Data
+### `in_time.csv` & `out_time.csv` — Working Hours Data
 
 Contains daily check-in and check-out timestamps for each employee throughout **2015**. Used for feature engineering (e.g., average daily hours worked, overtime patterns, absenteeism indicators).
 
