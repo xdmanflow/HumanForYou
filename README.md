@@ -267,8 +267,6 @@ This project was developed by:
 
 ## License
 
-MIT License
-
 Copyright (c) 2026 Manil Doudou, Maxime Moysset, Vanessa Cheptumo, Allexia Munene
 
 You can use this software however you want. That includes copying it, changing it, sharing it, or even selling it.
