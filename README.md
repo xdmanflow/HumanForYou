@@ -59,8 +59,8 @@ HumanForYou/
 ├── src/                           # Reusable Python modules
 │   ├── data_loader.py             # Data ingestion utilities
 │   ├── preprocessing.py           # Cleaning, encoding, feature engineering
-│   └── model_evaluation.py        # Evaluation metrics and comparison tools
-│
+│   ├── model_evaluation.py        # Evaluation metrics and comparison tools
+│   └── run_analysis.py            # Runing the whole analysis
 ├── reports/                       # Project documentation
 │   ├── ethics_document.md         # Ethical considerations and data governance
 │   └── bibliography.md            # Academic and technical references
