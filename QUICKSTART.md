@@ -128,5 +128,3 @@ Navigate to `notebooks/employee_turnover_analysis.ipynb` and run all cells.
 
 ---
 
-**Good luck with your analysis!**
-
