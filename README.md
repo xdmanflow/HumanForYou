@@ -108,7 +108,7 @@ Self-reported satisfaction scores on a 1–4 scale:
 | `JobSatisfaction` | Satisfaction with the role and daily tasks |
 | `WorkLifeBalance` | Perceived balance between work and personal life |
 
-> ⚠️ **Note:** This dataset contains `NA` values representing missing or unanswered survey responses. These are handled during the preprocessing phase.
+> **Note:** This dataset contains `NA` values representing missing or unanswered survey responses. These are handled during the preprocessing phase.
 
 ---
 
