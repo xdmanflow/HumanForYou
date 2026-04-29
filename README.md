@@ -267,10 +267,6 @@ This project was developed by:
 
 ## License
 
-Copyright (c) 2026 Manil Doudou, Maxime Moysset, Vanessa Cheptumo, Allexia Munene
+Copyright © 2025 HumanForYou. All rights reserved.
 
-You can use this software however you want. That includes copying it, changing it, sharing it, or even selling it.
-
-The only requirement is that you keep this copyright notice and permission statement in any copies or major parts of the software.
-
-This software comes with no guarantees. The authors are not responsible for any problems, damages, or losses that may happen from using it.
+This software is proprietary and confidential. Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without prior written consent from HumanForYou.
