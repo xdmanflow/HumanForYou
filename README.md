@@ -252,7 +252,7 @@ Full details are documented in [`reports/ethics_document.md`](reports/ethics_doc
 
 ---
 
-## Authors
+## Contributors
 
 This project was developed by:
 
