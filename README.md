@@ -17,7 +17,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Ethics & Compliance](#ethics--compliance)
-- [Authors](#authors)
+- [Contributors](#contributors)
 - [License](#license)
 
 ---
