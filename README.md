@@ -260,10 +260,10 @@ This project was developed by:
 
 | Name | Role |
 |------|------|
-| **Manil Doudou** | Data Analysis & Modeling |
-| **Maxime Moysset** | Data Analysis & Modeling |
-| **Vanessa Cheptumo** | Data Analysis & Modeling |
-| **Allexia Munene** | Data Analysis & Modeling |
+| **Manil Doudou** | Developer |
+| **Maxime Moysset** | Developer |
+| **Vanessa Cheptumo** | Developer |
+| **Allexia Munene** | Developer |
 
 ---
 
