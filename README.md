@@ -183,8 +183,6 @@ All models were evaluated using stratified cross-validation to account for class
 | **ROC-AUC** | Model's ability to discriminate between classes |
 | **Feature Importance** | Which features drive the model's decisions |
 
-> Given the business context, **Recall** is prioritized — missing an at-risk employee is more costly than a false positive.
-
 ---
 
 ## Deliverables
